@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/intimacy/static/css/main.6d6a742d.css",
+    "main.js": "/intimacy/static/js/main.71fc205f.js",
+    "static/js/488.835e4654.chunk.js": "/intimacy/static/js/488.835e4654.chunk.js",
+    "static/media/INTIMACY_logo.png": "/intimacy/static/media/INTIMACY_logo.05a2a80a0527247d5e81.png",
+    "static/media/onlyLOGO.png": "/intimacy/static/media/onlyLOGO.0b9fbae622be1a742831.png",
+    "static/media/TitleLOGO.png": "/intimacy/static/media/TitleLOGO.8411291034b8e0f1446e.png",
+    "service-worker.js": "/intimacy/service-worker.js",
+    "index.html": "/intimacy/index.html",
+    "main.6d6a742d.css.map": "/intimacy/static/css/main.6d6a742d.css.map",
+    "main.71fc205f.js.map": "/intimacy/static/js/main.71fc205f.js.map",
+    "488.835e4654.chunk.js.map": "/intimacy/static/js/488.835e4654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6a742d.css",
+    "static/js/main.71fc205f.js"
+  ]
+}
