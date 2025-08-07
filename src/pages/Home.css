@@ -1,0 +1,31 @@
+/* src/pages/Home.css */
+.home {
+  /* font-family: 'Helvetica Neue', sans-serif; */
+  color: #2c2c2c;
+  background: #fffaf7;
+  padding: 0;
+  margin: 0;
+}
+
+.hero {
+  background: #f7e8df;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.about, .services {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.footer {
+  background: #f1e1d6;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
